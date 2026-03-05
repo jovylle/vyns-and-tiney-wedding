@@ -1,4 +1,4 @@
-Official wedding website of Vyns and Tiney
+Wedding website of Vyns and Tiney
 https://vynsandtiney.atcebu.win/
 
 May 11, 2024 · Lapu-Lapu City, Cebu, Philippines
