@@ -2,7 +2,8 @@ Wedding website of Vyns and Tiney
 https://vynsandtiney.atcebu.win/
 
 May 11, 2024 · Lapu-Lapu City, Cebu, Philippines
-<img width="737" height="477" alt="image" src="https://github.com/user-attachments/assets/fb86b307-7882-4fd7-82e7-75cce15a6576" />
+
+![Uploading image.png…]()
 
 
 CREDITS (libraries used):
